@@ -42,4 +42,6 @@ Pembobotan nilai kelulusan:
 
 - Wawancara = 25%
 
+##NOTE
+File ada di dalam src
 
