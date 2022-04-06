@@ -8,10 +8,12 @@ NIM   : 123200149
 Kelas : Praktikum Pemrograman Berorientasi Objek IF-F
 
 Prodi : Informatika
+
 ## STUDI KASUS 
 +-------------+
 | STUDI KASUS |
 +-------------+
+
 Buatlah sebuah program sederhana tentang seleksi divisi Android development & Web development di sebuah perusahaan.
 
 - Pertama, user akan masuk ke menu, kemudian akan diminta untuk memilih antara Android Development atau Web Development.
@@ -23,13 +25,21 @@ Ketentuan kelulusan:
 - Setiap divisi memiliki bobot nilai yang berbeda.
 
 Pembobotan nilai kelulusan:
+
 1. Android Development:
+
 Tulis = 20%
+
 Coding = 50%
+
 Wawancara = 30%
+
 2. Web Development
+
 Tulis = 40%
+
 Coding = 35%
+
 Wawancara = 25%
 
 
