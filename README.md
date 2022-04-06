@@ -28,18 +28,18 @@ Pembobotan nilai kelulusan:
 
 1. Android Development:
 
-Tulis = 20%
+- Tulis = 20%
 
-Coding = 50%
+- Coding = 50%
 
-Wawancara = 30%
+- Wawancara = 30%
 
 2. Web Development
 
-Tulis = 40%
+- Tulis = 40%
 
-Coding = 35%
+- Coding = 35%
 
-Wawancara = 25%
+- Wawancara = 25%
 
 
